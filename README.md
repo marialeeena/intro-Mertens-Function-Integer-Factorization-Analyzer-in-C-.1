@@ -14,3 +14,10 @@ Key Features:
 •Classification of Integers: Analyzes the range $[2, ZP \times 1000]$ to efficiently classify numbers into Perfect, Deficient, or Abundant using sum-of-divisors prime factorization theorems.
 
 •Compilation Flexibility: Supports dynamic parameterization of the exponent (MAXEXP) via compiler definitions (-DMAXEXP=...).
+
+
+How to run the project:
+
+gcc -DMAXEXP=8 -o mertsumd mertsumd.c    (MAXEXP can be any value from 1 to 9)
+./mertsumd
+time ./mertsumd
