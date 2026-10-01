@@ -2,6 +2,7 @@
 
 
 Mertens Function & Integer Factorization Analyzer in C
+
 A robust C program developed as an introductory programming assignment, focusing on number theory concepts without relying on floating-point arithmetic, arrays, pointers, or external math libraries.
 
 Key Features:
