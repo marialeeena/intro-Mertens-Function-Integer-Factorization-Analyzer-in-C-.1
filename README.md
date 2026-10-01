@@ -19,5 +19,7 @@ Key Features:
 How to run the project:
 
 gcc -DMAXEXP=8 -o mertsumd mertsumd.c    (MAXEXP can be any value from 1 to 9)
+
 ./mertsumd
+
 time ./mertsumd
